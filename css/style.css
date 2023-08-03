@@ -774,9 +774,8 @@ img {
   transform: translateY(-0.25rem);
 }
 
-.scrollup:focus {
+.scrollup:active {
   filter: brightness(80%);
-  transform: translateY(2px);
 }
 
 /* Show Scroll Up */
